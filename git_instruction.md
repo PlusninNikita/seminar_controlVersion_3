@@ -35,3 +35,5 @@
 
 * git branch - выводит спеисок веток
 * git branch branch_name - создает ветку с именем branch_name
+* git branch -d branch_name - удаление ветки с которой прошло слияние
+* git branch -D branch_name - удаляет любую ветку
